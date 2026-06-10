@@ -1,4 +1,4 @@
-function MoodButton({ label, icon, onSelect, contanct }) {
+function MoodButton({ label, icon, onSelect, contanct,}) {
   return (
     <button
       onClick={onSelect}
@@ -17,6 +17,7 @@ function MoodButton({ label, icon, onSelect, contanct }) {
 
         {label}
         {contanct}
+        
       </span>
     </button>
   );
