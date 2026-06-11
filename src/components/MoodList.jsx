@@ -24,7 +24,7 @@ const moods = [
   { emoji: "😯", label: "Dance",image:"https://media.tenor.com/oZp1QzbgX4AAAAAM/dance.gif" ,contanct : "--ayeee Hallooooooo--" },
   { emoji: "😯", label: "Confused",image:"https://media1.tenor.com/m/gZ9CSDfVg6kAAAAd/jethalal-tmkoc.gif",contanct : "--Sunder Itne le gya toh kitne bache --" },
   { emoji: "😢", label: "Holi " ,image:"https://i.pinimg.com/originals/d6/60/26/d66026295d4abc84fbed451f38a1140f.gif" ,contanct : "--Inko dekho jitna nacha rhe--"},
-  { emoji: "😢", label: "Fiting" ,image:"https://media.tenor.com/r6xwrsc8l_oAAAAM/bday-fight.gif" ,contanct : "--Babita Ji ke Liye Me acha Gift laya hun --"},
+  { emoji: "😢", label: "Figthing" ,image:"https://media.tenor.com/r6xwrsc8l_oAAAAM/bday-fight.gif" ,contanct : "--Babita Ji ke Liye Me acha Gift laya hun --"},
 
 
 
